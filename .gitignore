@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+bin/
+obj/
+*.user
+*.suo
+*.vs/
+*.db
